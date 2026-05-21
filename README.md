@@ -1,3 +1,5 @@
+> ⭐ If this saves you time, please star the repo — it helps others find it!
+
 # Terraform Module Registry
 
 Production-ready, tested Terraform modules for AWS, GCP, and Azure. Copy, reference, and go.
