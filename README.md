@@ -1,4 +1,4 @@
-> ⭐ If this saves you time, please star the repo — it helps others find it!
+> ⭐ If this saves you time, please star the repo, it helps others find it!
 
 # Terraform Module Registry
 
